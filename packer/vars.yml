@@ -1,5 +1,5 @@
 ---
 
-consul_server: consul.live.testinfra.cloud.tux.kz
-environment_domain: testinfra
+consul_server: consul.live.renat.cloud.tux.kz
+environment_domain: renat
 environment_name: live
